@@ -59,6 +59,6 @@ function calcActivity(activity) {
     case 7:
       return 2.5;
     default:
-      return 1.2; // Default sedentary activity
+      return 1.2;
   }
 }
